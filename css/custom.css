@@ -1,0 +1,334 @@
+.navbar-c {
+  background-color: #0c0d13;
+  border-color: #0c0d13;
+}
+
+.brand-bar {
+	margin-bottom: 0;
+}
+
+.sidebar {
+	padding: 50px 0 200px 0;
+	background-color: #008DDB;
+	color: #ffffff;
+	text-align: center;
+}
+
+.user-name {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.usage {
+	border-top: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.user-image {
+	margin-top: -33px;
+	border: 2px solid #ffffff;
+}
+
+.stamp-link-text {
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #ffffff;
+}
+
+.app-info {
+	font-size: 12px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.stamp-name {
+	font-size: 16px;
+	color: black;
+}
+
+.stamp-info-box {
+	padding: 0 0 0 0;
+}
+
+.stamp-info-text {
+	font-size: 12px;
+	text-align: left;
+}
+
+.stamp-info-labels {
+	text-align: left;
+}
+
+.stamp-info-labels-box {
+	padding: 0 0 0 0;
+}
+
+.stamp-info-values {
+	text-align: right;
+}
+
+.stamp-info-values-box {
+	padding: 0 0 0 0;
+}
+
+.api-calls {
+	font-size: 16px;
+	color: #ffffff;
+	padding-top: 0;
+	padding-bottom: 5px;
+}
+
+@media (max-width: 767px) {
+	.sidebar {
+		padding-bottom: 0;
+	}
+}
+
+
+.main {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.container-main {
+	padding-top: 70px;
+	padding-left: 5px;
+}
+
+.card {
+	background-color: #898989;
+	border-style: solid;
+	border-color: #898989;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.stamp-navbar {
+	margin-top: 5px;
+}
+
+.text-color-white {
+	color: #ffffff;
+}
+
+.inactive {
+	color: #989898;
+}
+
+.well-straight {
+	border-radius: 0;
+	background-color: #bababa;
+	border-color: #bababa;
+}
+
+.card-divider {
+	border-color: #ffffff;
+	width: 50%;
+}
+
+.wrapper-plus {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	margin-bottom: 20px;
+	background-color: #008DDB;
+}
+
+.wrapper-plus:hover {
+	background-color: #007ec3;
+}
+
+.image-bg {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	background-image: url('images/bg.jpg');
+}
+
+.stamps-page-box {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #ffffff;
+	text-align: left;
+	color: white;
+	margin-right: 0;
+}
+
+.stamps-page-box:hover {
+	background-color: #007ec3;
+}
+
+.analytics-page-box {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #ffffff;
+	text-align: left;
+	color: white;
+	margin-right: 0;
+}
+
+.analytics-page-box:hover {
+	background-color: #007ec3;
+}
+
+.text-color-gray {
+	color: #919498
+}
+
+.text-color-brand {
+	color: #dfdfdf;
+}
+
+.text-color-black {
+	color: #000000;
+}
+
+.no-underline{
+	text-decoration: none;
+}
+
+.bg-color-blue {
+	background-color: #008DDB;
+	color: #008DDB;
+}
+
+.filter-padding {
+	padding: 15px 0 15px 15px;
+}
+
+#filter-dropdown {
+	padding: 5px 5px 5px 5px;
+	margin: 8px 15px 10px 5px;
+	border-color: #919498;
+	border-style: solid;
+	color: #6b6b6b;
+	border-width: 2px;
+}
+
+
+
+.app-info {
+	font-size: 12;
+}
+
+/*
+.stamp-use-border {
+	border-top: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff;
+	margin-top: 20px;
+}
+
+
+/*
+@media (max-width: 1234px) {
+	.stamp-use-border {
+		padding-bottom: 15px;
+	}
+}
+*/
+
+.fuck-padding {
+	padding: 0 0 0 0;
+}
+
+.unique-stamp-use-border {
+	border-left: 1px solid #ffffff;
+}
+
+.fix {
+	display: inline-block;
+}
+
+@media (max-width: 767px) {
+	.unique-stamp-use-border {
+		border-left: 0;
+	}
+} 
+
+.stamp-use-number {
+	padding-top: 5px;
+	margin-bottom: 3px;
+	font-size: 18px;
+}
+
+.stamp-use-text {
+	margin-top: 0;
+	font-size: 12px;
+}
+
+.unique-stamp-use-number {
+	padding-top: 0;
+	margin-bottom: 3px;
+	font-size: 18px;
+}
+
+.unique-stamp-use-text {
+	margin-top: 0;
+	font-size: 12px;
+}
+
+.add-container {
+	background-color: #008DDB;
+}
+
+.add-container:hover {
+	background-color: #007ec3;
+}
+
+.icons-timegate, .icons-timegate-inactive, .icons-uselimit, .icons-uselimit-inactive, .icons-goldenticket, .icons-goldenticket-inactive {
+	background-image: url('../dashboard_icons/icon_sprite2x.png');
+	background-repeat: no-repeat;
+	background-size: 200%;
+	float: left;
+	clear: left;
+	margin-top: -5px;
+	margin-right: 20px;
+	margin-left: -10px;
+}
+
+.icons-timegate {
+	background-position: 0 -1;
+	height: 25px;
+	width: 25px;
+}
+
+
+.icons-timegate-inactive {
+	background-position: -25px -1px;
+	height: 25px;
+	width: 25px;
+}
+
+
+.icons-uselimit {
+	background-position: 0 -25px;
+	height: 25px;
+	width: 25px;
+}
+
+.icons-uselimit-inactive {
+	background-position: -25px -25px;
+	height: 25px;
+	width: 25px;
+}
+
+.icons-goldenticket {
+	background-position: 0 -50px;
+	height: 25px;
+	width: 25px;
+}
+
+.icons-goldenticket-inactive {
+	background-position: -25px -50px;
+	height: 25px;
+	width: 25px;
+}
+
+.stamp-info-divider {
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
